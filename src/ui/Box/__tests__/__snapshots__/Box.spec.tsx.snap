@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Box renders app variant as expected 1`] = `
+<body>
+  <div>
+    <div />
+  </div>
+</body>
+`;
+
+exports[`Box renders container variant as expected 1`] = `
+<body>
+  <div>
+    <div />
+  </div>
+</body>
+`;
